@@ -1,0 +1,10 @@
+name: carplotter
+title:
+account: giamic
+server: shinyapps.io
+appId: 132601
+bundleId: 590848
+url: https://giamic.shinyapps.io/carplotter/
+when: 1476887530.66027
+asMultiple: FALSE
+asStatic: FALSE
